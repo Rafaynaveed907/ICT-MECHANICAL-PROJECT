@@ -7,8 +7,8 @@ st.set_page_config(page_title="Mechanical Unit Converter", layout="centered")
 st.title("⚙️ Mechanical Unit Converter & Material Density Checker")
 st.markdown("---")
 st.sidebar.header("Developer Information")
-st.sidebar.write("**Name:** Muhammad Bilal")
-st.sidebar.write("**Roll Number:** 25-ME-124")
+st.sidebar.write("**Name:** Muhammad Rafay Naveed")
+st.sidebar.write("**Roll Number:** 25-ME-180")
 
 # Main Navigation
 option = st.selectbox("Choose a Tool", ["Unit Converter", "Material Density Checker"])
